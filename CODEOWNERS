@@ -11,7 +11,7 @@
 *.md @asyncapi-bot-eve
 
 markdown/blog/*.md @thulieblack
-markdown/community/*.md @thulieblack
+markdown/community/*.md @thulieblack  @derberg
 
 README.md @akshatnema @magicmatatjahu @mayaleeeee @asyncapi-bot-eve
 #docTriagers: TRohit20 BhaswatiRoy VaishnaviNandakumar J0SAL
