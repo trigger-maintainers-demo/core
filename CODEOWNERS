@@ -10,7 +10,7 @@
 # All .md files
 *.md @asyncapi-bot-eve
 
-markdown/blog/*.md @thulieblack @derberg
+markdown/blog/*.md @thulieblack
 markdown/community/*.md @thulieblack
 
 README.md @akshatnema @magicmatatjahu @mayaleeeee @asyncapi-bot-eve
